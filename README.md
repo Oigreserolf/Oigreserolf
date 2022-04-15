@@ -2,6 +2,8 @@
 
 Let me talk you a bit about myself:
 
+- :ghost: I'm an (almost) engineer who is always finding ways to challenge and develop my creative along with my skill set. Lately got a special interest in coding mostly Python with approach into Machine Learning and C to embedded systems.
+
 - 🔭 I’m currently working on my research project aimed to help me to get my bachelors degree (Can you pray by me? I'd Really appreciate it.)
 
 - 🌱 I’m currently learning Python, C, Scrum and Machine learning with Python. Being honest, I'm an entry-level developer, but I'm motivated. Lately change my OS, now I'm falling in love with Ubuntu.
