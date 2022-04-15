@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi folks👋
 
-<!--
-**Oigreserolf/Oigreserolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me talk you a bit about myself:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my research project aimed to help me to get my bachelors degree (Can you pray by me? I'd Really appreciate it.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Python, C, Scrum and Machine learning with Python. Being honest, I'm an entry-level developer, but I'm motivated. Lately change my OS, now I'm falling in love with Ubuntu.
+
+- 👯 I’m looking to collaborate on open source projects.
+
+- 🤔 I’m looking for help with Python, Ubuntu, C and in a few days with Azure.
+
+- 💬 Ask me about IoT, Mechanical Design, Philosophy and Rock 'n Roll
+
+- 📫 How to reach me: oigreserolf@hotmail.com 
+
+- ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
+
