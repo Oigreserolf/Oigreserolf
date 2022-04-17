@@ -2,7 +2,7 @@
 
 Let me talk you a bit about myself:
 
-- :ghost: I'm an (almost) engineer who is always finding ways to challenge and develop my creativity along with my skill set. Lately got a special interest in coding mostly Python with approach into Machine Learning and C to embedded systems.
+- :ghost: I'm an (almost) engineer who is always finding ways to challenge and develop his own creativity along with his skill set. Lately got a special interest in coding mostly Python with approach into Machine Learning and C to embedded systems.
 
 - 🔭 I’m currently working on my research project aimed to help me to get my bachelors degree (Can you pray by me? I'd Really appreciate it.)
 
