@@ -1,3 +1,5 @@
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
+
 ## Hi folks👋
 
 Let me talk you a bit about myself:
