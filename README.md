@@ -1,5 +1,3 @@
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)(width=100px)
-
 ## Hi folks👋
 
 Let me talk you a bit about myself:
@@ -20,3 +18,4 @@ Let me talk you a bit about myself:
 
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
 
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
