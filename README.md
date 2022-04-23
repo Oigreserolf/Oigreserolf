@@ -1,4 +1,4 @@
-## Hi folks👋
+#### Hi folks👋
 
 Let me talk you a bit about myself:
 
@@ -14,7 +14,7 @@ Let me talk you a bit about myself:
 
 - 💬 Ask me about IoT, Mechanical Design, Philosophy and Rock 'n Roll
 
-- 📫 How to reach me: oigreserolf@hotmail.com 
+- 📫 Keep in touch: oigreserolf@hotmail.com 
 
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
 
