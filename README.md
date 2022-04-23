@@ -17,5 +17,3 @@ Let me talk you a bit about myself:
 - 📫 Keep in touch: oigreserolf@hotmail.com 
 
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
-
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
