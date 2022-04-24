@@ -19,5 +19,4 @@ Let me talk you a bit about myself:
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
 
 # Welcome to my repositories!!!
-![Photo](~/Pictures/Yaskawa.png?raw=true"Tittle")
-
+![Alt text](~/Pictures/Yaskawa.png?raw=true"Tittle")
