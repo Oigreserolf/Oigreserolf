@@ -1,4 +1,4 @@
-## Hi folks👋
+# Hi folks👋
 
 Let me talk you a bit about myself:
 
@@ -18,7 +18,7 @@ Let me talk you a bit about myself:
 
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
 
-# Welcome to my repositories!!!
+## Welcome and go ahead, Let's code !!!
 ![Yaskawa](https://user-images.githubusercontent.com/78891613/164950745-034af31b-fc95-41e2-ba99-b93162db029e.png)
 
 
