@@ -17,3 +17,6 @@ Let me talk you a bit about myself:
 - 📫 Keep in touch: oigreserolf@hotmail.com 
 
 - ⚡ Fun fact: prefer soda with ice cubes and love the cinema's nachos. 
+
+#Welcome to my repositories!!!
+![](~/Pictures/Yaskawa.jpg)
